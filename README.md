@@ -12,9 +12,9 @@ Each week has power ratings for each team and predictions for each game that wee
 - [Week 7](Week7.txt)
 - [Week 8](Week8.txt)
 - [Week 9](Week9.txt)
-- ~[Week 10](Week10.txt)~
-- ~[Week 11](Week11.txt)~
-- ~[Week 12](Week12.txt)~
+- [Week 10](Week10.txt)
+- [Week 11](Week11.txt)
+- [Week 12](Week12.txt)
 - ~[Week 13](Week13.txt)~
 - ~[Week 14](Week14.txt)~
 - ~[Week 15](Week15.txt)~
